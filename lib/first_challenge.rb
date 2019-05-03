@@ -1,3 +1,10 @@
 def first_challenge
-   epic_tragedy = {}
+   epic_tragedy = {
+     :montague => {},
+     :capulet => {}
+   }
+  return epic_tragedy
+
 end
+
+puts first_challenge
